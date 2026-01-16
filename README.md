@@ -5,7 +5,7 @@
 ### 🚀 加密货币量化交易专家 | 套利工具开发者
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xiaoyiclub?style=social)](https://x.com/xiaoyiclub)
-[![Telegram](https://img.shields.io/badge/Telegram-@xiaoyiclub-blue?logo=telegram)](https://t.me/xiaoyiclub)
+[![Telegram](https://img.shields.io/badge/Telegram-@xiaoyi2023-blue?logo=telegram)](https://t.me/xiaoyi2023)
 
 </div>
 
